@@ -3,28 +3,24 @@ layout: page
 title: About
 ---
 
+## About Me
+
+I am coadvised by Professor Andrew Packard and Professor Murat Arcak.
+My main research interests lie in Robust Control, Nonlinear Control and Model Predictive Control(MPC), Machine Learning, and their application to autonomous driving.
+Here is the link of my [Lab](https://bcci.me.berkeley.edu). There are many bright guys working there. 
+
+Learn more about me [CV](https://github.com/poole).
+
+## Eduation
+
+Ph.D. candidate, Mechanical Engineering, University of California, Berkeley Aug. 2016 - present
+* Major: Control Systems, Minors: Optimization and Learning
+  Advisors: Andrew Packard, Murat Arcak
+  Courses: Convex Optimization & Algorithm, Deep Reinforcement Learning, Machine Learning, Nonlinear
+  Control, System Theory, Learning & Optimization, Linear Systems, State Estimation, Dynamic Programming 
+* B.Sc., MechanicalEngineering, Harbin Institute of Technology July 2016
+
+## Contact
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  he_yin (at) berkeley (dot) edu
 </p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
