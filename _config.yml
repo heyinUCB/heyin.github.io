@@ -10,7 +10,7 @@ permalink:        pretty
 title:            He Yin
 tagline:          'A Jekyll theme'
 description:      'A Control PhD at UC Berkeley, interested in Motion Planning & Control, Learning based Control'
-url:              heyinucb.github.io
+url:              heyinucb
 baseurl:          /
 
 paginate:         5
